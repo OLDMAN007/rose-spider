@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/modules.xml
+.idea/rose-spider.iml
+.idea/workspace.xml
